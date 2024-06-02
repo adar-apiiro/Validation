@@ -1,8 +1,5 @@
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.pac4j.oauth.client.FacebookClient;
-import org.pac4j.oauth.client.Google2Client;
-
 public class ExampleUsage {
     private static final Logger logger = LoggerFactory.getLogger(ExampleUsage.class);
 
