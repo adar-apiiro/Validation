@@ -2,8 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Data.SqlClient;
 using Newtonsoft.Json;
 using Serilog;
-using AutoFixture.Xunit2;
-using AutoFixture;
+using Microsoft.EntityFrameworkCore;
+using EntityFramework;
 
 namespace ExampleNamespace
 {
