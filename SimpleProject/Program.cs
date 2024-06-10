@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using log4net;
 using EntityFramework;
+using Microsoft.AspNetCore;
 
 namespace SimpleProject
 {
